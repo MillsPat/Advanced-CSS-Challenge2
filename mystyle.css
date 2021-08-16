@@ -9,9 +9,9 @@ body{
 
 #footer{
     text-align: center;
-background:#be52df;
-display-flex: flex;
-justify-content: center;
+    background:#be52df;
+    display-flex: flex;
+    justify-content: center;
 }
 
 @-webkit-keyframes gradient {
@@ -68,8 +68,8 @@ p{
 
 img{
     margin: center;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 #services{
